@@ -1,3 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata"/>
-
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>Size</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Size</shortDescription>
+        <value>Size is :</value>
+    </labels>
+    <labels>
+        <fullName>SuccessMessage</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>SuccessMessage</shortDescription>
+        <value>The operation was successful</value>
+    </labels>
+</CustomLabels>
