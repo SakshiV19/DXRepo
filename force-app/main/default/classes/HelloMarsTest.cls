@@ -21,14 +21,14 @@ public with sharing class HelloMarsTest {
         System.assert(true);
     }
 
-    // @isTest
-    // private static void test3() {
-    //     Long start = DateTime.now().getTime();
-    //     while (DateTime.now().getTime() - start < (delay * 1000));
+    @isTest
+    private static void test3() {
+        Long start = DateTime.now().getTime();
+        while (DateTime.now().getTime() - start < (delay * 1000));
 
-    //     new HelloMars().say();
-    //     System.assert(true);
-    // }
+        new HelloMars().say();
+        System.assert(true);
+    }
 
     // @isTest
     // private static void test4() {
