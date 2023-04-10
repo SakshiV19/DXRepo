@@ -8,6 +8,13 @@
         <value>Please mark this as complete.</value>
     </labels>
     <labels>
+        <fullName>Script</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Script</shortDescription>
+        <value>Please make a script selection.</value>
+    </labels>
+    <labels>
         <fullName>Size</fullName>
         <language>en_US</language>
         <protected>true</protected>
