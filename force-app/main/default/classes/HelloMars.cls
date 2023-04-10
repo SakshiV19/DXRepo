@@ -1,6 +1,6 @@
 public with sharing class HelloMars {
     public void say() {
-        System.debug('Hello World');
+        
         
 
         
