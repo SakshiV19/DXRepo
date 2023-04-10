@@ -11,7 +11,7 @@ public with sharing class HelloMars {
     }
 
     public void say2() {
-        System.debug('Hello World');
+        
     }
 
     public void debugLog() {
