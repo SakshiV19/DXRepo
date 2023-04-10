@@ -16,11 +16,6 @@ public with sharing class HelloMars {
 
     public void debugLog() {
         System.debug('Hello World');
-        
-        System.debug('Hello World again');
-        System.debug('Hello World again');
-        System.debug('Hello World again');
-        System.debug('Hello World again');
-        System.debug('Hello World again');
+        System.debug('Hello World');
     }
 }
