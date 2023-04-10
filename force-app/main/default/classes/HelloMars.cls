@@ -20,5 +20,7 @@ public with sharing class HelloMars {
         System.debug('Hello World again');
         System.debug('Hello World again');
         System.debug('Hello World again');
+        System.debug('Hello World again');
+        System.debug('Hello World again');
     }
 }
