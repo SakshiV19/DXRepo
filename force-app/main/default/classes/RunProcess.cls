@@ -38,8 +38,10 @@ public with sharing class RunProcess {
     public void say10() {
         System.debug('10');
     }
-
     public void say10() {
         System.debug('11');
+    }
+    public void say10() {
+        System.debug('12');
     }
 }
