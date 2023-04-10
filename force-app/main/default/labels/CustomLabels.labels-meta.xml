@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
     <labels>
+        <fullName>Complete</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Complete</shortDescription>
+        <value>Please mark this as complete.</value>
+    </labels>
+    <labels>
         <fullName>Size</fullName>
         <language>en_US</language>
         <protected>true</protected>
