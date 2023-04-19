@@ -7,6 +7,7 @@ public with sharing class HelloMars {
         Integer a = 1;
         if (true) {
             a += 1;
+            //test
         }
     }
 // Test
