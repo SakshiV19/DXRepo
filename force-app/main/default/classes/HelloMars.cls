@@ -6,7 +6,7 @@ public with sharing class HelloMars {
             a += 1;
         }
     }
-
+// Test
     public void say2() {
         System.debug('hello');
     }
