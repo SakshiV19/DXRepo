@@ -14,5 +14,7 @@ export default class ContactListItem extends LightningElement {
 
         console.warn(`<c-icon> Invalid icon name`); // eslint-disable-line no-console
         this.dispatchEvent(selectEvent);
+
+
     }
 }
