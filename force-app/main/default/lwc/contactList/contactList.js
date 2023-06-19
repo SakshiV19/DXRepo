@@ -11,6 +11,8 @@ export default class ContactList extends LightningElement {
         const selectEvent = new CustomEvent('contactselect', {
             detail: { contactId: event.currentTarget.dataset.contactId }
         });
+
+        console.warn(`<c-icon> Invalid icon name`); // eslint-disable-line no-console
         // 3. Fire the custom event
         this.dispatchEvent(selectEvent);
     }
