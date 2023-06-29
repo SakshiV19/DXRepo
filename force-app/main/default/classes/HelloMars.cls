@@ -2,6 +2,7 @@ public with sharing class HelloMars {
     public void say() {
         System.debug('Hello World');
         System.debug('Hello World 2');
+        System.debug('Hello World 2');
 
         
         Integer a = 1;
