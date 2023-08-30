@@ -2,6 +2,7 @@
 private class TemperatureConverterTest {
     @isTest static void testWarmTemp() {
         Decimal celsius = TemperatureConverter.fahrenheitToCelsius(70);
+        System.debug('cs'+celsius);
         System.assertEquals(21.11,celsius,'some msg');
     }
     @isTest static void testFreezingPoint() {
@@ -12,6 +13,10 @@ private class TemperatureConverterTest {
         Decimal celsius = TemperatureConverter.fahrenheitToCelsius(212);        
         System.assertEquals(100,celsius,'Boiling point temperature is not expected.');
     } 
+    @isTest static void testFahrenheitToCelsiusCopy() {
+        Decimal celsius = TemperatureConverter.fahrenheitToCelsiusCopy(212);        
+        System.assertEquals(100,celsius,'Boiling point temperature is not expected.');
+    }
     /*@isTest static void testNegativeTemp() {
         Decimal celsius = TemperatureConverter.fahrenheitToCelsius(-10);
         System.assertEquals(-23.33,celsius,'some msg');
