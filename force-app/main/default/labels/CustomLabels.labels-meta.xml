@@ -8,11 +8,11 @@
         <value>Please mark this as complete.</value>
     </labels>
     <labels>
-        <fullName>Script</fullName>
+        <fullName>Incomplete</fullName>
         <language>en_US</language>
         <protected>true</protected>
-        <shortDescription>Script</shortDescription>
-        <value>Please make a script selection.</value>
+        <shortDescription>Incomplete</shortDescription>
+        <value>Please mark this as incomplete.</value>
     </labels>
     <labels>
         <fullName>Size</fullName>
