@@ -28,11 +28,18 @@
         <shortDescription>SuccessMessage</shortDescription>
         <value>The operation was successful</value>
     </labels>
-     <labels>
+    <labels>
         <fullName>Hello</fullName>
         <language>en_US</language>
         <protected>true</protected>
         <shortDescription>Hello</shortDescription>
         <value>Hello</value>
+    </labels>
+    <labels>
+        <fullName>HelloWorld</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>HelloWorld</shortDescription>
+        <value>HelloWorld</value>
     </labels>
 </CustomLabels>
