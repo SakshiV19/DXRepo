@@ -8,6 +8,7 @@ public with sharing class HelloMars {
         if (true) {
             a += 1;
             a += 1;
+            a += 1;
         }
     }
 
