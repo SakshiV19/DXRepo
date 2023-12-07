@@ -17,6 +17,7 @@ public with sharing class RunProcess {
     
     public void say5() {
         System.debug('5');
+        System.debug('5');
     }
     
     public void say6() {
