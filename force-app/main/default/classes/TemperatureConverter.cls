@@ -13,6 +13,7 @@ public without sharing class TemperatureConverter {
         System.debug('cs'+cs);
         System.debug('cs'+cs);
         System.debug('cs'+cs);
+        System.debug('cs'+cs);
         return cs.setScale(2);
     }
 }
