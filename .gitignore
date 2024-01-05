@@ -8,6 +8,7 @@
 .copado/
 .localdevserver/
 deploy-options.json
+.vscode 
 
 # LWC VSCode autocomplete
 **/lwc/jsconfig.json
