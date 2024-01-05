@@ -1,0 +1,17 @@
+public with sharing class TestClass {
+    public void say() {
+        System.debug('Hello World');
+        System.debug('Hello World 2');
+        System.debug('Hello World 3');
+        System.debug('Hello World 4!!!');
+        
+        Integer a = 1;
+        if (true) {
+            a += 1;
+        }
+    }
+
+    public void say2() {
+        System.debug('Hello World');
+    }
+}
