@@ -2,7 +2,7 @@
 <Profile xmlns="http://soap.sforce.com/2006/04/metadata"
       xmlns:n1="http://www.w3.org/2001/XMLSchema-instance">
     <custom>true</custom>
-    <description>CCHTest</description>
+    <description>CCHTesting</description>
     <loginHours n1:nil="true" />
     <loginIpRanges>
         <endAddress>198.0.0.0</endAddress>
