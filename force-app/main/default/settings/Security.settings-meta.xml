@@ -9,8 +9,8 @@
     <enableRequireHttpsConnection>true</enableRequireHttpsConnection>
     <networkAccess/>
     <passwordPolicies>
-        <complexity>AlphaNumeric</complexity>
-        <expiration>NinetyDays</expiration>
+        <complexity>NoRestriction</complexity>
+        <expiration>ThirtyDays</expiration>
         <historyRestriction>3</historyRestriction>
         <lockoutInterval>FifteenMinutes</lockoutInterval>
         <maxLoginAttempts>TenAttempts</maxLoginAttempts>
